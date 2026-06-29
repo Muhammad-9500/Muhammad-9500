@@ -1,6 +1,6 @@
 # Hi 👋, I'm Muhammad Saidu Abdullahi
 
-## Full Stack Software Developer | ASP.NET Core | Angular | AI Enthusiast
+## Full Stack Software Developer | ASP.NET Core | Enterprise Systems | AI Agents
 
 I'm a Full Stack Software Developer from Nigeria with a First Class degree in Computer Science.
 

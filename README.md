@@ -92,7 +92,6 @@ Business appointment management application.
 
 - C#
 - Python
-- Java
 - SQL
 - JavaScript
 - TypeScript
@@ -143,4 +142,4 @@ https://github.com/Muhammad-9500
 
 LinkedIn
 
-(Add LinkedIn here if you have one)
+www.linkedin.com/in/muhammad-saidu-abdullahi-071a281b2
